@@ -30,13 +30,6 @@ Between January 1, 2010, and December 31, 2022, New York City experienced increa
 12. Conclusions                                                     # Final takeaways and recommendations
 ```
 
-## Data Sources
-
-| Dataset                         | Provider               | Period                 | Link                                                                                         |
-|---------------------------------|------------------------|------------------------|----------------------------------------------------------------------------------------------|
-| **Central Park Weather History**| Kaggle (NOAA)          | 2010–2022 (subset)     | https://www.kaggle.com/danbraswell/new-york-city-weather-18692022                           |
-| **Electric Consumption & Cost** | NYC OpenData           | 2010–2022 (subset)     | https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr/about_data |
-
 ## 📂 Repository Layout
 
 ```
@@ -47,6 +40,13 @@ Between January 1, 2010, and December 31, 2022, New York City experienced increa
 ├── README.md                                                    # Project overview & instructions
 └── requirements.txt                                             # Python dependencies
 ```
+
+## Data Sources
+
+| Dataset                         | Provider               | Period                 | Link                                                                                         |
+|---------------------------------|------------------------|------------------------|----------------------------------------------------------------------------------------------|
+| **Central Park Weather History**| Kaggle (NOAA)          | 2010–2022 (subset)     | https://www.kaggle.com/danbraswell/new-york-city-weather-18692022                           |
+| **Electric Consumption & Cost** | NYC OpenData           | 2010–2022 (subset)     | https://data.cityofnewyork.us/Housing-Development/Electric-Consumption-And-Cost-2010-Feb-2025-/jr24-e7cr |
 
 ## 🚀 How to Run
 
