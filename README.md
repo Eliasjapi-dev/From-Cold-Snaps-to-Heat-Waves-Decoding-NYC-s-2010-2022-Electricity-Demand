@@ -2,6 +2,11 @@
 
 **A comprehensive data exploration analyzing how weather extremes shape New York City’s electricity consumption and cost.**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b68e230-754b-42d8-9fa3-4aa19c141393" alt="Linkedin Publi Banner 1" width="80%"/>
+  <br>
+</p>
+
 ## 📖 Project Description
 
 Between January 1, 2010, and December 31, 2022, New York City experienced increasingly volatile temperature patterns—from brutal cold snaps in winter to record-breaking heat waves in summer. This Jupyter notebook:
