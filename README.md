@@ -17,33 +17,30 @@ Between January 1, 2010, and December 31, 2022, New York City experienced increa
 
 ## 📈 Key Visualizations
 
-<div align="center">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9700469-d959-4d73-9b28-905974e04d3e" alt="Monthly Comparison" width="80%"/>
+  <br>
+  <em>Figure 1. Monthly average temperature vs. electricity consumption (2010–2022).</em>
+</p>
 
-<figure>
-  <img src="https://github.com/user-attachments/assets/a9700469-d959-4d73-9b28-905974e04d3e" width="80%" alt="Monthly Comparison: Temperature vs Consumption" />
-  <figcaption><strong>Figure 1.</strong> Monthly average temperature vs. electricity consumption (2010–2022).</figcaption>
-</figure>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/983a3ebe-618b-4290-a27b-a25b8f93d133" alt="Pearson Heatmap" width="45%" style="margin-right:5px;"/>
+  <img src="https://github.com/user-attachments/assets/c0b429cc-645d-4998-9a8b-0e1d3968c7ab" alt="Spearman Heatmap" width="45%"/>
+  <br>
+  <em>Figure 2. Pearson correlation matrix &nbsp;&nbsp;|&nbsp;&nbsp; Figure 3. Spearman correlation matrix.</em>
+</p>
 
-<figure style="display:inline-block; margin:0 1em;">
-  <img src="https://github.com/user-attachments/assets/983a3ebe-618b-4290-a27b-a25b8f93d133" width="300" alt="Pearson Heatmap" />
-  <figcaption><strong>Figure 2.</strong> Pearson correlation matrix.</figcaption>
-</figure>
-<figure style="display:inline-block; margin:0 1em;">
-  <img src="https://github.com/user-attachments/assets/c0b429cc-645d-4998-9a8b-0e1d3968c7ab" width="300" alt="Spearman Heatmap" />
-  <figcaption><strong>Figure 3.</strong> Spearman correlation matrix.</figcaption>
-</figure>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5201eabd-7904-413d-99d5-e96ed36079e4" alt="Significance Table" width="40%" style="margin-right:5px;"/>
+  <br>
+  <em>Figure 4. Pearson significance tests with 95% CIs.</em>
+</p>
 
-<figure>
-  <img src="https://github.com/user-attachments/assets/5201eabd-7904-413d-99d5-e96ed36079e4" width="50%" alt="Significance Table" />
-  <figcaption><strong>Figure 4.</strong> Pearson significance tests with 95 % confidence intervals.</figcaption>
-</figure>
-
-<figure>
-  <img src="https://github.com/user-attachments/assets/f7269df1-3515-4aef-a741-c47008f5e767" width="60%" alt="Interpretation Table" />
-  <figcaption><strong>Figure 5.</strong> Summary of key correlation coefficients and interpretations.</figcaption>
-</figure>
-
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7269df1-3515-4aef-a741-c47008f5e767" alt="Interpretation Table" width="73%"/>
+  <br>
+  <em>Figure 5. Summary of key coefficients & interpretations.</em>
+</p>
 
 ---
 
