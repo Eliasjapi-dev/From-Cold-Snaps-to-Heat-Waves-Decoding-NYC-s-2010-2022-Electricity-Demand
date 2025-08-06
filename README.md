@@ -84,7 +84,7 @@ Between January 1, 2010, and December 31, 2022, New York City experienced increa
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Eliasjapi-dev/From-Cold-Snaps-to-Heat-Waves-Decoding-NYC-s-2010-2025-Electricity-Demand.git
+   git clone https://github.com/Eliasjapi-dev/From-Cold-Snaps-to-Heat-Waves-Decoding-NYC-s-2010-2022-Electricity-Demand.git
    cd nyc-weather-electricity-analysis
    ```
 2. **Install dependencies**:
