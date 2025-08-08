@@ -95,13 +95,11 @@ Between January 1, 2010, and December 31, 2022, New York City experienced volati
 ## 📂 Repository Layout
 
 ```
-├── data/                                                        # Raw CSV files
-│   ├── NYC_Central_Park_weather_1869-2022.csv                   # Daily weather observations
-│   └── Electric_Consumption_And_Cost__2010_-_Feb_2025.csv       # Daily electricity usage & cost
-├── notebooks/                                                   # Analysis notebooks
-│   └── from_cold_snaps_to_heat_waves_nyc_electricity_demand_2010-2022.ipynb
-├── README.md                                                    # Project overview & instructions
-└── requirements.txt                                             # Python dependencies
+├── NYC_Central_Park_weather_1869-2022.csv                               # Daily weather observations
+├── Electric_Consumption_And_Cost__2010_-_Feb_2025.csv                   # Daily electricity usage & cost
+├── from_cold_snaps_to_heat_waves_nyc_electricity_demand_2010-2022.ipynb # Analysis notebook
+├── README.md                                                            # Project overview & instructions
+└── requirements.txt                                                     # Python dependencies
 ```
 
 ## 🚀 How to Run
