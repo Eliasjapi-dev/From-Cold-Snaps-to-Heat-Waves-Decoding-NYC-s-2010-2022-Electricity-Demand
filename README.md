@@ -39,7 +39,7 @@ Between January 1, 2010, and December 31, 2022, New York City experienced volati
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5201eabd-7904-413d-99d5-e96ed36079e4" alt="Significance Table" width="40%" style="margin-right:5px;"/>
   <br>
-  <em>Figure 4. Statistical significance (95% CI) of Pearson correlations.</em>
+  <em>Figure 4. Statistical significance (95% CI) of Pearson  & Spearman correlations.</em>
 </p>
 
 <p align="center">
